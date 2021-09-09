@@ -1,0 +1,8 @@
+/* portfolio color palette */
+:root {
+  --primary: rgba(220, 0, 255, 1);
+  --secondary: rgba(161, 0, 255, 1);
+  --tertiary: rgba(84, 11, 130, 1);
+  --dark: rgba(0, 0, 0, 1);
+  --light: rgba(252, 252, 252, 1);
+}
